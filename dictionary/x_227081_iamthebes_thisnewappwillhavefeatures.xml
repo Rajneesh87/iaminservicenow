@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="live_feed=true" audit="true" extends="x_227081_needit_neetit_table1_model" label="ThisNewAppWillHaveFeatures" max_length="40" name="x_227081_iamthebes_thisnewappwillhavefeatures" type="collection">
+        <element display="true" label="Description" max_length="40" name="description" type="string"/>
+    </element>
+</database>
