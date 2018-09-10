@@ -54,7 +54,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-06-29 11:50:51</sys_created_on>
-        <sys_id>c5fba566db0023007c42f11ebf96191e</sys_id>
+        <sys_id>31e005bfdb4023007c42f11ebf96198b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_227081_iamthebes_thisnewappwillhavefeatures</sys_name>
         <sys_package display_value="iamthebestinservicenow" source="x_227081_iamthebes">1ddb5470db0313007c42f11ebf961995</sys_package>
@@ -62,7 +62,7 @@
         <sys_scope display_value="iamthebestinservicenow">1ddb5470db0313007c42f11ebf961995</sys_scope>
         <sys_update_name>sys_dictionary_x_227081_iamthebes_thisnewappwillhavefeatures_NULL</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-08-23 20:52:37</sys_updated_on>
+        <sys_updated_on>2018-08-27 14:56:56</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

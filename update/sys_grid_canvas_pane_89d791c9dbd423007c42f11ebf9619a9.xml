@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA Workflow Operations Dashboard">30d75989dbd423007c42f11ebf9619b6</grid_canvas>
+        <height>19</height>
+        <portal_widget display_value="Created 2018-08-31 06:49:30">b8d791c9dbd423007c42f11ebf96199f</portal_widget>
+        <posx>0</posx>
+        <posy>42</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-31 13:49:30</sys_created_on>
+        <sys_id>89d791c9dbd423007c42f11ebf9619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>30d75989dbd423007c42f11ebf9619b6</sys_name>
+        <sys_package display_value="iamthebestinservicenow" source="x_227081_iamthebes">1ddb5470db0313007c42f11ebf961995</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iamthebestinservicenow">1ddb5470db0313007c42f11ebf961995</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_89d791c9dbd423007c42f11ebf9619a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-31 13:49:30</sys_updated_on>
+        <width>6</width>
+    </sys_grid_canvas_pane>
+</record_update>

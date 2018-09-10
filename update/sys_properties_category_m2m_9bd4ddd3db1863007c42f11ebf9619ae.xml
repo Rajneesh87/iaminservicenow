@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="IamTheBestInServicenow Properties enable">dc921193dbd463007c42f11ebf961917</category>
+        <order>100</order>
+        <property display_value="x_227081_iamthebes.autocloseoverdue1" name="x_227081_iamthebes.autocloseoverdue1">fbe211d3db1863007c42f11ebf96196e</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-07 13:22:54</sys_created_on>
+        <sys_id>9bd4ddd3db1863007c42f11ebf9619ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_227081_iamthebes.autocloseoverdue1.IamTheBestInServicenow Properties enable</sys_name>
+        <sys_package display_value="iamthebestinservicenow" source="x_227081_iamthebes">1ddb5470db0313007c42f11ebf961995</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iamthebestinservicenow">1ddb5470db0313007c42f11ebf961995</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_9bd4ddd3db1863007c42f11ebf9619ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-07 13:22:54</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>

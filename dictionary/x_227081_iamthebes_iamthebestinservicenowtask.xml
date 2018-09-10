@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="IamTheBestInServiceNowTask" max_length="40" name="x_227081_iamthebes_iamthebestinservicenowtask" sizeclass="11" type="collection"/>
+</database>

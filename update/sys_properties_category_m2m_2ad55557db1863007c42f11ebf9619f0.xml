@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="IamTheBestInServicenow Properties enable">dc921193dbd463007c42f11ebf961917</category>
+        <order>1</order>
+        <property display_value="x_227081_iamthebes.advancedNoticeDays" name="x_227081_iamthebes.advancedNoticeDays">f7251d17db1863007c42f11ebf961967</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-07 13:27:40</sys_created_on>
+        <sys_id>2ad55557db1863007c42f11ebf9619f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_227081_iamthebes.advancedNoticeDays.IamTheBestInServicenow Properties enable</sys_name>
+        <sys_package display_value="iamthebestinservicenow" source="x_227081_iamthebes">1ddb5470db0313007c42f11ebf961995</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iamthebestinservicenow">1ddb5470db0313007c42f11ebf961995</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_2ad55557db1863007c42f11ebf9619f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-07 13:27:40</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>

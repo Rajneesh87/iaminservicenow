@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>IAmTheBestInServiceNow Properties1</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-03 12:59:14</sys_created_on>
+        <sys_id>5eb8e802db1023007c42f11ebf961956</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>IAmTheBestInServiceNow Properties1</sys_name>
+        <sys_package display_value="iamthebestinservicenow" source="x_227081_iamthebes">1ddb5470db0313007c42f11ebf961995</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iamthebestinservicenow">1ddb5470db0313007c42f11ebf961995</sys_scope>
+        <sys_update_name>sys_properties_category_5eb8e802db1023007c42f11ebf961956</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-07 05:28:12</sys_updated_on>
+        <title><![CDATA[<p><img style="vspace: 10px; hspace: 10px; align: baseline;" title="" src="sys_attachment.do?sys_id&#61;56676f43db1463007c42f11ebf9619ba" alt="" width="131" height="131" align="baseline" border="0" hspace="10" vspace="10" /></p>
+<p>I am there to change the properties it will be read by IAmTheBestInServiceNow users</p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=5eb8e802db1023007c42f11ebf961956"/>
+</record_update>
